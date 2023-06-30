@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Benefícios{
+    background: rgb(13,122,224);
+    background: radial-gradient(circle, rgba(13,122,224,1) 19%, rgba(0,0,0,1) 100%);
+    height: 100vh;
+    width: 100vw;
+}
+
+.meio h2{
+    color: #ffffff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+}
